@@ -1,0 +1,17 @@
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Muhit o'zgaruvchilari (Maxfiy ma'lumotlar)
+.env
+
+# Virtual muhit
+venv/
+.venv/
+
+# Boshqa keraksiz fayllar
+.vscode/
+.idea/
+*.rar
+*.zip
